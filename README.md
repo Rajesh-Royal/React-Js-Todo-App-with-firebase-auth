@@ -12,7 +12,7 @@ url -
 ![image](https://github.com/Rajesh-Royal/React-Js-Todo-App-with-firebase-auth/blob/master/photos/architecture.png)
 
 
-##### screens
+## screens
 
 ![image](https://github.com/Rajesh-Royal/React-Js-Todo-App-with-firebase-auth/blob/master/photos/login.PNG)
 
@@ -23,6 +23,7 @@ url -
 ![image](https://github.com/Rajesh-Royal/React-Js-Todo-App-with-firebase-auth/blob/master/photos/account.PNG)
 
 #### Components used
+
 - ReactJS
 - Material UI
 - Firebase
@@ -30,7 +31,7 @@ url -
 - Postman
 
 
-
+********************************************************************************************************************************
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
