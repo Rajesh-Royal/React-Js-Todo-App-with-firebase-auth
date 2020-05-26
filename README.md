@@ -9,7 +9,7 @@ url -
 
 ## Architecture
 
-![image](https://github.com/Rajesh-Royal/React-Js-Todo-App-with-firebase-auth/blob/master/photos/account.PNG)
+![image](https://github.com/Rajesh-Royal/React-Js-Todo-App-with-firebase-auth/blob/master/photos/architecture.PNG)
 
 
 ##### screens
