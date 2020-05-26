@@ -1,3 +1,22 @@
+##### Full Tutorial with auth implementation using Firebase: 
+
+https://www.freecodecamp.org/news/how-to-build-a-todo-application-using-reactjs-and-firebase/
+
+
+### Demo 
+
+
+#### Components used
+- ReactJS
+- Material UI
+- Firebase
+- ExpressJS
+- Postman
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
