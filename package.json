@@ -35,6 +35,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "proxy": "https://us-central1-to-do-app-27bee.cloudfunctions.net/api"
+  }
 }

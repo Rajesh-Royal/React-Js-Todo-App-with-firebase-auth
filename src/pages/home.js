@@ -101,7 +101,7 @@ class home extends Component {
 		const authToken = localStorage.getItem('AuthToken');
 		axios.defaults.headers.common = { Authorization: `${authToken}` };
 		axios
-			.get('/user')
+			.get('https://us-central1-to-do-app-27bee.cloudfunctions.net/api/user')
 			.then((response) => {
 				console.log(response.data);
 				this.setState({
